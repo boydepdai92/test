@@ -1,0 +1,8 @@
+{
+    "name": "admin/example",
+    "description": "Example for package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
